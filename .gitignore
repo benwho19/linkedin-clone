@@ -9,7 +9,7 @@
 /coverage
 
 # firebase
-/firebase.js
+/src/firebase.js
 
 # production
 /build
